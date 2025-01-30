@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>This is About Page</h1>
+<p>This is the description of the About Page.</p>
 </body>
 </html>
