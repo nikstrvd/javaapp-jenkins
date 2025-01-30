@@ -5,5 +5,6 @@
 <a href="about.jsp">About Page</a>
 <a href="contact.jsp">Contact Page</a>
 <a href="services.jsp">Services Page</a>
+<a href="Home.jsp">Home Page</a>
 </body>
 </html>
